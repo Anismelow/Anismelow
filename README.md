@@ -13,21 +13,8 @@
 </div>
 
 <div class="aboutme">
-    <h2>About me</h2>
+              A apassonate Self-taught Backend developer 
 
-    <ul>
-        <li>
-            A apassonate Self-taught Backend developer 
-        </li>
-        <li>
-        Currently learning DevOps by self 
-        </li>
-        <li>
-            I'm currently learning Devops on my own, and when I'm not, I'm out walking my dog.
-         </li>
-
-
-    </ul>
 </div>
 
 
