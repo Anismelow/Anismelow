@@ -20,23 +20,11 @@
 <li>I'm currently learning Devops on my own, and when I'm not, I'm out walking my dog.</li>
 
 <div class="habilidades_tecnicas">
-    <h2>Habilidades técnicas</h2>
-    
-        <h2>Lenguajes:</h2>
- 
-   
-        <h2>Desarrollador Front-end:</h2>
-  
-  
-        <h2>Desarrollador Back-end:</h2>
-
-  
-        <h2>DevOps:</h2>
- 
-   
-        <h2>Base de datos:</h2>
- 
-   
-        <h2>Software y herramientas:</h2>
-    
+<h2>Habilidades técnicas</h2>
+<h2>Lenguajes:</h2>
+<h2>Desarrollador Front-end:</h2>
+<h2>Desarrollador Back-end:</h2>
+<h2>DevOps:</h2>
+<h2>Base de datos:</h2>
+<h2>Software y herramientas:</h2>
 </div>
