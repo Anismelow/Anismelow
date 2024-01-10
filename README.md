@@ -21,10 +21,7 @@
 
 <div class="habilidades_tecnicas">
 <h2>Habilidades técnicas</h2>
-    <h2>Lenguajes:</h2>
-    <h2>Desarrollador Front-end:</h2>
-    <h2>Desarrollador Back-end:</h2>
-    <h2>DevOps:</h2>
-    <h2>Base de datos:</h2>
-    <h2>Software y herramientas:</h2>
+<h2>Lenguajes:</h2>
+<li>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</li>
+ 
 </div>
