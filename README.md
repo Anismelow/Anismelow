@@ -13,7 +13,7 @@
 </div>
 
 <div class="aboutme" flex="column">
-A apassonate Self-taught Backend developer 
+<li> A apassonate Self-taught Backend developer </li>
 Currently learning DevOps by self 
 I'm currently learning Devops on my own, and when I'm not, I'm out walking my dog.
 
