@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/anyellmendoza/">
-    <img src="https://img.shields.io/badge/Linkedin-ligth-blue
+    <img src="https://img.shields.io/badge/Linkedin-blue
 " alt="">
 </a>
 
