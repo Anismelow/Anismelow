@@ -21,10 +21,10 @@
 
 <div class="habilidades_tecnicas">
 <h2>Habilidades técnicas</h2>
-<h2>Lenguajes:</h2>
-<h2>Desarrollador Front-end:</h2>
-<h2>Desarrollador Back-end:</h2>
-<h2>DevOps:</h2>
-<h2>Base de datos:</h2>
-<h2>Software y herramientas:</h2>
+    <h2>Lenguajes:</h2>
+    <h2>Desarrollador Front-end:</h2>
+    <h2>Desarrollador Back-end:</h2>
+    <h2>DevOps:</h2>
+    <h2>Base de datos:</h2>
+    <h2>Software y herramientas:</h2>
 </div>
