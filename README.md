@@ -22,6 +22,6 @@
 <div class="habilidades_tecnicas">
 <h2>Habilidades técnicas</h2>
 <h2>Lenguajes:</h2>
-<li>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</li>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  
 </div>
